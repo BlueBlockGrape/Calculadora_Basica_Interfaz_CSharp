@@ -1,0 +1,13 @@
+C:\Users\esaar\source\repos\Calculadora_Basica_Forms\Calculadora_Basica_Forms\bin\Debug\Calculadora_Basica_Forms.exe.config
+C:\Users\esaar\source\repos\Calculadora_Basica_Forms\Calculadora_Basica_Forms\bin\Debug\Calculadora_Basica_Forms.exe
+C:\Users\esaar\source\repos\Calculadora_Basica_Forms\Calculadora_Basica_Forms\bin\Debug\Calculadora_Basica_Forms.pdb
+C:\Users\esaar\source\repos\Calculadora_Basica_Forms\Calculadora_Basica_Forms\obj\Debug\Calculadora_Basica_Forms.csprojAssemblyReference.cache
+C:\Users\esaar\source\repos\Calculadora_Basica_Forms\Calculadora_Basica_Forms\obj\Debug\Calculadora_Basica_Forms.Form1.resources
+C:\Users\esaar\source\repos\Calculadora_Basica_Forms\Calculadora_Basica_Forms\obj\Debug\Calculadora_Basica_Forms.Properties.Resources.resources
+C:\Users\esaar\source\repos\Calculadora_Basica_Forms\Calculadora_Basica_Forms\obj\Debug\Calculadora_Basica_Forms.csproj.GenerateResource.cache
+C:\Users\esaar\source\repos\Calculadora_Basica_Forms\Calculadora_Basica_Forms\obj\Debug\Calculadora_Basica_Forms.csproj.CoreCompileInputs.cache
+C:\Users\esaar\source\repos\Calculadora_Basica_Forms\Calculadora_Basica_Forms\obj\Debug\Calculadora_Basica_Forms.exe
+C:\Users\esaar\source\repos\Calculadora_Basica_Forms\Calculadora_Basica_Forms\obj\Debug\Calculadora_Basica_Forms.pdb
+C:\Users\esaar\source\repos\Calculadora_Basica_Forms\Calculadora_Basica_Forms\bin\Debug\Logica.dll
+C:\Users\esaar\source\repos\Calculadora_Basica_Forms\Calculadora_Basica_Forms\bin\Debug\Logica.pdb
+C:\Users\esaar\source\repos\Calculadora_Basica_Forms\Calculadora_Basica_Forms\obj\Debug\Calculadora_Basica_Forms.csproj.CopyComplete
